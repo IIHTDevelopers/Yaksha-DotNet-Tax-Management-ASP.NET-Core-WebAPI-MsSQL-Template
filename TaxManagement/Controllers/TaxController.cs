@@ -55,7 +55,7 @@ namespace TaxManagement.Controllers
         }
 
         [HttpGet]
-        [Route("tax")]
+        [Route("taxes")]
         public async Task<IEnumerable<Tax>> GetAllTaxes()
         {
             //write your code here
