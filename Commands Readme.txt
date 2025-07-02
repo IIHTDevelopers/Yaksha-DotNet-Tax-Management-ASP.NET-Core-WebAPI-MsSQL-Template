@@ -38,5 +38,4 @@ BackEnd-Commands
 
 * To run the test cases in CMD, Run the following command to test the application:
 	(TaxManagement .Tests/dotnet test --logger "console;verbosity=detailed")
-	(You can run this command multiple times to identify the test case status,and refactor code  to make maximum test cases passed before final submission)             
-* You need to use CTRL+Shift+B - command compulsorily on code IDE, before final submission as well. This will push or save the updated contents in the internal git/repository, and will be used to evaluate the code quality.
+	(You can run this command multiple times to identify the test case status,and refactor code  to make maximum test cases passed before final submission)    
