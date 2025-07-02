@@ -1,4 +1,11 @@
 BackEnd-Commands
+* Install the .NET SDK 6.0 by running:
+	sudo apt install dotnet-sdk-6.0
+	- If it asks for the password, provide password : pass@word1 
+
+	 - If it asks: Do you want to continue? [Y/n]
+		Type Y and press Enter.
+
 * On command prompt, cd into your project folder (cd <Your-Project-folder>).
 
 * To connect SQL  server from terminal:
